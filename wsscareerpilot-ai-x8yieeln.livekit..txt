@@ -1,0 +1,73 @@
+wss://careerpilot-ai-x8yieeln.livekit.cloud
+
+API4JFoLBF57FzX
+
+8cepmGfRkQcsx3H31xTMfzD68qzuYGi5Mc1KjZG3ku8B : api secret 
+
+LIVEKIT_URL=wss://careerpilot-ai-x8yieeln.livekit.cloud
+LIVEKIT_API_KEY=API4JFoLBF57FzX
+LIVEKIT_API_SECRET=8cepmGfRkQcsx3H31xTMfzD68qzuYGi5Mc1KjZG3ku8B : env variables
+
+
+I want to remove all the third party functions and files which are now not being used. i want the site to be completely independent so i will not have any issues hosting and deploying on other platforms like hostinger. it currently has netlify, firebase, cloudinary sort of files. i want the project to be independent of these. it should run like it is used to without messing with the current state of the website. 
+
+
+admin panel backend addition: in the existing admin panel, along with the blogs admin should be able to upload or replace the existing images, add images in the website without any error wherever the images are located especially in before and after, dermatology and plastic surgery section of the website. If admin does not provide the image then a message should appear saying image not provided or not appearing.  Admin also be able to change any text in only sections mentioned before(Before and after, dermatology and plastic surgery) . Add this feature in addition to our existing admin panel and make sure that it does not interfere with the existing website code, just the admin panel backend changes are required. make the code production ready and hostable on platforms. do not include any third party cloud tools and services.
+
+there are some flaws with the latest updated admin panel, make sure that the latest images are being uploaded or removed from the panel reflects on the respective frontend. All features of admin panel must be fully functional. same with the respective sections text. 
+all admin panel changes must reflect on frontend at respective spaces. this also should work just fine after we deploy and host this website (along with the admin panel) on hostinger. 
+
+About the job
+TVH is seeking a Data Engineer Intern to join our global team. The team specializes in building and maintaining data pipelines, data Integration and Data Platform consolidating and provisioning data from various sources across our different markets and industries, access management and creation of unified schemas and modular architecture.
+
+As a Data Engineer Intern, you will work alongside experienced engineers to learn and contribute to data modelling , data ingestion and data platform projects. You will support designing and implementing scalable solutions that fit the needs of our stakeholders and tools. This data is key for our internal teams to have efficient and effective support towards our customers and also to
+
+Your Role And Responsibilities
+
+Translating requirements into technical implementation: Assist senior team members in gathering requirements and identifying data points from structured and unstructured sources to help design fit-for-use data products.
+
+Data Transformation & Delivery Support: Support the end-to-end data delivery process for data extraction and transformation under mentor guidance.
+
+Data Pipeline Engineering: Learn and assist in building data integration and data transformation pipelines using technologies like GCP, BigQuery, and Kafka, Boomi under the supervision of senior engineers.
+
+Data Platform: Learn and assist in building Data Platform and AI Platforms in Cloud environments
+
+Data Integration: Learn the fundamentals of REST APIs, HTTP methods, JSON and XML data formats, authentication, and API-based communication. Assist in developing and testing integrations that enable reliable data exchange between applications and services.
+
+Energised team player: You will be joining a globally-spread team that envies team spirit, co-creation and collaboration.
+
+How To Succeed/Your Profile
+
+Must have
+
+Currently pursuing degree in Computer Science, Data Engineering, or a related field
+Foundational Technical Skills:
+Solid foundation in Python and SQL-
+Basic understanding of relational databases and data modeling concept 
+Basic knowledge of Data ingestion 
+Basic knowledge on Cloud and Data Ingestion and Data Transformation
+Basic understanding of application integration concepts and data exchange between systems.
+Foundational knowledge of APIs, particularly REST APIs, and data formats such as JSON and XML.
+Basic understanding of data engineering concepts, data transformation, and pipelines.
+Strong analytical mind and you get energized by resolving complex data problems
+A good eye for detail and a commitment to deliver high data quality and accuracy
+Fluent communication (speaking and writing) in English..
+Nice to have
+
+Exposure to Cloud Platforms , Git , Data Ingestion , Transformation 
+Familiarity with Git or version control systems
+Knowledge about DevOps methodologies
+Basic knowledge of API testing tools such as Postman.
+Exposure to integration patterns, API gateways, authentication mechanisms, and application connectivity.
+Affinity with equipment parts and service industry 
+Familiar with project development methodologies such as Scrum (Agile).
+
+Required Education
+
+Educational Background & Qualifications
+
+Currently enrolled in or recent graduate of a Bachelor’s or Master’s Degree in Computer Science, Data Engineering, Data Science, Software Engineering, or a related technical field
+Specialized Coursework: Strong academic foundation in Data Engineering, Distributed Systems, Database Management Systems (DBMS), Algorithm Design, and Real-time Computing
+
+
+

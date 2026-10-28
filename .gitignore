@@ -1,0 +1,89 @@
+# ==========================================
+# Dependencies
+# ==========================================
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# ==========================================
+# Python & Virtual Environments
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.*
+*.env
+!.env.example
+!**/.env.example
+
+# ==========================================
+# Next.js Build Output
+# ==========================================
+frontend/.next/
+frontend/out/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+
+# ==========================================
+# Logs & Debugging
+# ==========================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# ==========================================
+# Testing & Coverage
+# ==========================================
+coverage/
+.nyc_output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================================
+# IDE, OS & System Files
+# ==========================================
+.DS_Store
+*.pem
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.vercel
+
+# ==========================================
+# Database & Docker Volumes
+# ==========================================
+*.sqlite3
+*.db
+postgres_data/
+
+# ==========================================
+# Local Model Weights & Runtime Uploads
+# ==========================================
+# Piper voices (~60MB each) are downloaded once and STT uploads are scratch
+# files; both are machine-local and must stay out of git.
+backend/models/
+backend/uploads/
